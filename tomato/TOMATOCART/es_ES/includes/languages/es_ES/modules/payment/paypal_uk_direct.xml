@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_paypal_uk_direct_title</key>
+      <value><![CDATA[PayPal Pago Pro (Reino Unido) los pagos directos]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_description</key>
+      <value><![CDATA[PayPal Reino Unido Directo]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_method_title</key>
+      <value><![CDATA[PayPal Reino Unido Express (incluyendo tarjetas de crédito y de débito)]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_card_owner</key>
+      <value><![CDATA[Nombre del titular:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_card_type</key>
+      <value><![CDATA[Tipo de tarjeta:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_card_number</key>
+      <value><![CDATA[Número de tarjeta:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_card_valid_from</key>
+      <value><![CDATA[Válida desde:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_card_valid_from_info</key>
+      <value><![CDATA[(si está disponible)]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_card_expires</key>
+      <value><![CDATA[Fecha de caducidad:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_card_cvc</key>
+      <value><![CDATA[Códgo de seguridad (CVV2):]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_card_issue_number</key>
+      <value><![CDATA[Número de la publicación de la tarjeta:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_card_issue_number_info</key>
+      <value><![CDATA[(sólo para tarjeta Maestro y Solo)]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_error_general</key>
+      <value><![CDATA[Error: Un problema general ha ocurrido con la transacción. Por favor, inténtelo de nuevo.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_error_cfg_error</key>
+      <value><![CDATA[Error: error de configuración en el módulo de pago. Por favor verifica las credenciales de identificación.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_error_address</key>
+      <value><![CDATA[Error: La comprobación de la dirección de envío, ciudad, estado y código postal ha fallado. Por favor inténtelo de nuevo.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_error_all_fields_required</key>
+      <value><![CDATA[Error: Todos los datos son requeridos.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_error_declined</key>
+      <value><![CDATA[Error: esta transacción ha sido denegada. Por favor, inténtelo de nuevo.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_direct_error_invalid_credit_card</key>
+      <value><![CDATA[Error: La información de tarjeta de crédito proporcionada no es válida. Por favor, inténtelo de nuevo.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

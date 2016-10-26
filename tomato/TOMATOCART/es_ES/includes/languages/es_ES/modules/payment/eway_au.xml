@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_eway_au_title</key>
+      <value><![CDATA[Pago por eWAY]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_eway_au_description</key>
+      <value><![CDATA[Pago por eWAY]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_eway_au_method_title</key>
+      <value><![CDATA[Pago por eWAY]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_eway_au_credit_card_owner</key>
+      <value><![CDATA[Titular de la tarjeta:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_eway_au_credit_card_number</key>
+      <value><![CDATA[Número de la tarjeta:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_eway_au_credit_card_expiry_date</key>
+      <value><![CDATA[Fecha de caducidad:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_eway_au_credit_card_cvv</key>
+      <value><![CDATA[Número de control CVC:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_eway_eu_js_credit_card_owner</key>
+      <value><![CDATA[* El nombre del titular de la tarjeta debe de ser al menos de %s caracteres.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_eway_eu_js_credit_card_number</key>
+      <value><![CDATA[* El número de la tarjeta debe de ser al menos de %s caracteres.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_eway_eu_cc_js_credit_card_cvc</key>
+      <value><![CDATA[* El número de control de la tarjeta (CVC) debe de ser de al menos 3 caracteres.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

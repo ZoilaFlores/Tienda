@@ -1,0 +1,11 @@
+////////////////////////////////////////////////////////////////////////////////////////
+Contactar con nostros en info@informaticapalafrugell.com para reportar fallos. Gracias.
+////////////////////////////////////////////////////////////////////////////////////////
+
+1.- Extensión de lenguaje en español para la versión de opencart 1.5.2.1
+2.- Si no se ha creado antes, crear el idioma español en Settings - Localization - Languages
+	* UTILIZA LA IMAGEN ADJUNTA A ESTE PAQUETE SI NO SABES QUE COLOCAR EN LAS CASILLAS
+3.- Volcar el contenido de upload a la carpeta raiz de opencart en el servidor
+4.- Seleccionar el lenguaje español en la configuración de opencart
+5.- Puede haber alguna sección de la aplicación que no esté traducida. Aunque hemos intentado verificarlo todo podria ser que faltara algo
+6.- No nos hacemos responsables de la conseqüencias que una mala traducción pudiese provocarle

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>order_total_gift_wrapping_title</key>
+      <value><![CDATA[Envolver para regalo]]></value>
+      <group>modules-order_total</group>
+    </definition>
+    <definition>
+      <key>order_total_gift_wrapping_description</key>
+      <value><![CDATA[Envolver para regalo]]></value>
+      <group>modules-order_total</group>
+    </definition>
+    <definition>
+      <key>gift_wrapping_heading</key>
+      <value><![CDATA[Envolver para regalo]]></value>
+      <group>modules-order_total</group>
+    </definition>
+    <definition>
+      <key>gift_wrapping_description</key>
+      <value><![CDATA[Por favor marca la casilla si quieres que tu(s) artículo(s) se envuelva(n) para regalo. Tendrá un coste adicional de  %s.]]></value>
+      <group>modules-order_total</group>
+    </definition>
+  </definitions>
+</language>

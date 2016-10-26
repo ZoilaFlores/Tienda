@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>shipping_flat_title</key>
+      <value><![CDATA[Envío tarifa plana]]></value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_flat_description</key>
+      <value><![CDATA[Envío tarifa plana]]></value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_flat_method</key>
+      <value><![CDATA[Una cantidad fija independiente del precio y la cantidad de los artículos.]]></value>
+      <group>modules-shipping</group>
+    </definition>
+  </definitions>
+</language>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_paypal_direct_title</key>
+      <value><![CDATA[Pagos sitio Web de PayPal Pro (EE.UU.) los pagos directos]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_description</key>
+      <value><![CDATA[<b>Nota: PayPal requiere el modulo PayPal Express Checkout habilitado si este módulo es activado</b><br /><br /><img src="images/icon_popup.gif" border="0">&nbsp;</img><a href="https://www.paypal.com/mrb/pal=PS2X9Q773CKG4" target="_blank" style="text-decoration: underline; font-weight: bold;">Visitar la web de PayPal</a>&nbsp;<a href="javascript:toggleDivBlock(\'paypalDirectInfo\');">(info)</a><span id="paypalDirectInfo" style="display: none;"><br /><i>Usando el enlace anterior para darte de alta en paypal le proporciona a osComercce un pequeño bonus financiero por referir a un cliente, gracias por usarlo!.</i></span>]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_method_title</key>
+      <value><![CDATA[Tarjeta de crédito o débito (procesados de forma segura por PayPal)]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_card_owner</key>
+      <value><![CDATA[Nombre del titular:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_card_type</key>
+      <value><![CDATA[Tipo de tarjeta:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_card_number</key>
+      <value><![CDATA[Número de tarjeta:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_card_valid_from</key>
+      <value><![CDATA[Válida desde:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_card_valid_from_info</key>
+      <value><![CDATA[(si está disponible)]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_card_expires</key>
+      <value><![CDATA[Fecha de caducidad:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_card_cvc</key>
+      <value><![CDATA[Códgo de seguridad (CVV2):]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_card_issue_number</key>
+      <value><![CDATA[Número de la publicación de la tarjeta:]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_card_issue_number_info</key>
+      <value><![CDATA[(sólo para tarjeta Maestro y Solo)]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_direct_error_all_fields_required</key>
+      <value><![CDATA[Error: Todos los datos son requeridos.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

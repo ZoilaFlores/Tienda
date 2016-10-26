@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_paypal_uk_express_title</key>
+      <value><![CDATA[PayPal Website Pagos Pro (Reino Unido) Pago Express]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_express_description</key>
+      <value><![CDATA[PayPal Reino Unido Express]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_express_method_title</key>
+      <value><![CDATA[PayPal Reino Unido Express (incluyendo tarjetas de crédito y débito)]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_express_error_cfg_error</key>
+      <value><![CDATA[Error: error de configuración en el módulo de pago. Por favor verifica las credenciales de identificación.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_express_error_address</key>
+      <value><![CDATA[Error: La comprobación de la dirección de envío, ciudad, estado y código postal ha fallado. Por favor inténtelo de nuevo.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_express_error_declined</key>
+      <value><![CDATA[Error: esta transacción ha sido denegada. Por favor, inténtelo de nuevo.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_express_error_express_disabled</key>
+      <value><![CDATA[Error: Pago exprés se ha deshabilitado para esta tienda. Póngase en contacto con Atención al Cliente de PayPal.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_paypal_uk_express_error_general</key>
+      <value><![CDATA[Error: Un problema general ha ocurrido con la transacción. Por favor, inténtelo de nuevo.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>
